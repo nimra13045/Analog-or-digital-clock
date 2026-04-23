@@ -1,13 +1,20 @@
 # ⏰ Analog & Digital Clock Project
 
-This is a simple **Analog and Digital Clock** project built using **HTML, CSS, and JavaScript**.  
-It is created for learning purposes to understand how JavaScript works with real-time updates and DOM manipulation.
+A modern and interactive **Analog & Digital Clock Web Application** built using **HTML, CSS, and JavaScript**.  
+This project is created for learning and practicing JavaScript DOM manipulation and real-time functionality.
 
 ---
 
-## 🚀 Live Demo / Video
+## 🚀 Live Demo
 
-🎥 Project Video:  
+🌐 Live Website:  
+[view live website](https://nimra13045.github.io/Analog-or-digital-clock/)
+
+---
+
+## 🎥 Project Demo Video
+
+📺 Watch Video:  
 https://youtube.com/shorts/phJy2WbXO4Q
 
 ---
@@ -16,9 +23,9 @@ https://youtube.com/shorts/phJy2WbXO4Q
 
 - 🕒 Real-time Analog Clock  
 - ⏱️ Digital Clock Display  
-- 🎨 Simple and clean UI design  
+- 🎨 Clean and modern UI design  
 - ⚡ Live time updates every second  
-- 📱 Responsive layout  
+- 📱 Fully responsive layout  
 
 ---
 
@@ -33,7 +40,7 @@ https://youtube.com/shorts/phJy2WbXO4Q
 ## 📂 Project Structure
 
 
-clock-project 
+Analog-or-digital-clock/
 │── index.html
 │── style.css
 │── script.js
@@ -44,21 +51,28 @@ clock-project
 
 ## 💡 How It Works
 
-- JavaScript `Date()` object is used to get the current time  
+- JavaScript `Date()` object is used to get system time  
 - `setInterval()` updates the clock every second  
 - Analog clock hands rotate based on hours, minutes, and seconds  
-- Digital clock displays live time in numbers  
-- CSS is used for styling and positioning  
+- Digital clock shows real-time numeric time  
+- CSS is used for styling and layout design  
 
 ---
 
+## 📷 Preview
+
+(Add screenshot of your project here)
+
+
+
+---
 
 ## 🚀 Future Improvements
 
-- Add dark/light mode 🌙☀️  
-- Add alarm feature ⏰  
-- Add timezone support 🌍  
-- Improve animations  
+- 🌙 Dark/Light mode toggle  
+- ⏰ Alarm feature  
+- 🌍 Multiple time zones support  
+- 🎨 Better animations and UI improvements  
 
 ---
 
@@ -72,4 +86,4 @@ clock-project
 
 ## ⭐ Support
 
-If you like this project, don't forget to ⭐ star the repository!
+If you like this project, please ⭐ star the repository!
